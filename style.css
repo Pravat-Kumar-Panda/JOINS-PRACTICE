@@ -1,0 +1,15 @@
+h1{
+    color: rgb(2, 2, 20);
+}
+p{
+    color: pink;
+}
+button{
+    color: violet;
+}
+body{
+    background-color: blue;
+}
+button{
+    background-color: chartreuse;
+}
